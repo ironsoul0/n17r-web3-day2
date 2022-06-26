@@ -33,7 +33,7 @@ This application assumes that you have `Hardhat` chain configured in your Metama
 
 ### Links
 
-Please refer to these docs for further understanding of how to build frontend for Web3:
+Please refer to these docs for further understanding of how to build frontend apps for Web3:
 
 - [useDapp](https://usedapp-docs.netlify.app/docs)
 - [wagmi](https://wagmi.sh/)
